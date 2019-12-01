@@ -12,7 +12,7 @@ First you need to setup the keys for the Twitter API. Here I used environ, from 
 
 After that, I set an search query with the term that I wanted to use as a base, a language, how many posts I want the app to collect, and the result types that I want.
 
-With that search, I programmed a for loop to get the id of the tweet that received the most retweets. Finishing it, I ordered the script to retweet the tweet got on the for loop.
+With that search, I programmed a for loop to get the id of the tweet that received the most retweets. Finishing it, I ordered the script to retweet the tweet that was gotten on the for loop.
 
 <p align="center">
 <img src="./readmeImages/searchQuery.jpeg">
