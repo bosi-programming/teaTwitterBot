@@ -1,6 +1,6 @@
 # Tea Bot for Twitter
 
-Tea bot for Twitter is a bot made in Python, with the <a href="https://www.tweepy.org/">Tweepy</a> library, that searches the Twitter for tea related tweets and retweets the ones with more retweets.
+Tea bot for Twitter is a bot made in Python with the <a href="https://www.tweepy.org/">Tweepy</a> library. The bot searches the Twitter for tea related tweets and retweets the ones with more retweets.
 
 ## How it works?
 
