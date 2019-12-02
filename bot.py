@@ -10,7 +10,7 @@ auth.set_access_token(ACCESS_KEY, ACCESS_SECRET)
 api = tweepy.API(auth)
 
 def retweeting(): 
-    searches = api.search(q='tea', lang='en', count=25, result_type='recent')
+    searches = api.search(q='tea', lang='en', count=10, result_type='recent')
 
     best_tweet = 0
 
